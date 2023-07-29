@@ -18,18 +18,18 @@ SBI Life Insurance Comp (2011 - 2015)
   
 2. Portal Development (Customer & Sales Portal)
 
-In this project, our team was tasked with developing two essential portals for the organization: a Customer Portal and a Sales Portal. These portals were designed to enhance customer engagement, improve sales processes, and provide a seamless user experience for both customers and sales representatives.
+  In this project, our team was tasked with developing two essential portals for the organization: a Customer Portal and a Sales Portal. These portals were designed to enhance customer engagement, improve sales processes, and provide a seamless user experience for both customers and sales representatives.
 
-The successful development of the Customer Portal and Sales Portal played a vital role in transforming our customer interactions and sales processes. These portals provided a user-friendly and efficient platform for customers and sales representatives alike, contributing to enhanced customer satisfaction, increased sales performance, and improved overall business outcomes. As we continue to innovate and improve, we remain committed to delivering the best experiences for our valued customers and sales teams.
+  The successful development of the Customer Portal and Sales Portal played a vital role in transforming our customer interactions and sales processes. These portals provided a user-friendly and efficient platform for customers and sales representatives alike, contributing to enhanced customer satisfaction, increased sales performance, and improved overall business outcomes. As we continue to innovate and improve, we remain committed to delivering the best experiences for our valued customers and sales teams.
 
 
 3. Communication Tool & Chat bot
 
-In this project, our team undertook the development and implementation of a sophisticated Communication Tool along with an intelligent Chat Bot. The goal was to enhance communication within the organization and with customers, streamline support processes, and leverage artificial intelligence to provide instant assistance.
+  In this project, our team undertook the development and implementation of a sophisticated Communication Tool along with an intelligent Chat Bot. The goal was to enhance communication within the organization and with customers, streamline support processes, and leverage artificial intelligence to provide instant assistance.
 
-The Chat Bot was an AI-powered virtual assistant designed to provide instant support and information to employees and customers. It leveraged natural language processing (NLP) and machine learning to understand user queries and offer relevant responses.
+  The Chat Bot was an AI-powered virtual assistant designed to provide instant support and information to employees and customers. It leveraged natural language processing (NLP) and machine learning to understand user queries and offer relevant responses.
 
-The successful implementation of the Communication Tool and Chat Bot significantly enhanced internal communication, streamlined customer support processes, and elevated the overall user experience. By leveraging cutting-edge technologies, the organization was able to achieve greater efficiency, improved customer satisfaction, and increased productivity. As we continue to evolve and innovate, we remain committed to utilizing technology to create seamless and personalized experiences for our employees and customers alike.
+  The successful implementation of the Communication Tool and Chat Bot significantly enhanced internal communication, streamlined customer support processes, and elevated the overall user experience. By leveraging cutting-edge technologies, the organization was able to achieve greater efficiency, improved customer satisfaction, and increased productivity. As we continue to evolve and innovate, we remain committed to utilizing technology to create seamless and personalized experiences for our employees and customers alike.
 
 
 4. MIS & Reports Automation
@@ -40,7 +40,7 @@ The successful implementation of the Communication Tool and Chat Bot significant
   
 5. Analytical Tool Development
 
-   In this project, our team was tasked with developing an advanced analytical tool to empower the organization with data-driven insights and decision-making capabilities. The objective was to create a user-friendly and powerful tool that could process and analyze large datasets from various sources, providing valuable insights and visualizations to stakeholders.
+  In this project, our team was tasked with developing an advanced analytical tool to empower the organization with data-driven insights and decision-making capabilities. The objective was to create a user-friendly and powerful tool that could process and analyze large datasets from various sources, providing valuable insights and visualizations to stakeholders.
 
-   The development of the analytical tool marked a significant milestone in the organization's data-driven journey. By providing powerful analytics and user-friendly visualizations, the tool facilitated informed decision-making and empowered stakeholders with actionable insights. As the organization continues to evolve and embrace data-driven strategies, the analytical tool will play a central role in unlocking the potential of data, driving innovation, and achieving continued success.
+  The development of the analytical tool marked a significant milestone in the organization's data-driven journey. By providing powerful analytics and user-friendly visualizations, the tool facilitated informed decision-making and empowered stakeholders with actionable insights. As the organization continues to evolve and embrace data-driven strategies, the analytical tool will play a central role in unlocking the potential of data, driving innovation, and achieving continued success.
 
