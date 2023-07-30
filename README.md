@@ -4,11 +4,11 @@
 MBA (Finance)
 
 ### Work Experience
-Ageas Federal Life Insurance (2017 - Currently Working Here)
+Ageas Federal Life Insurance (Apr 2017 - Currently Working Here)
 
-HDFC Standard Life Insurance (2015 - 2017)
+HDFC Standard Life Insurance (Aug 2015 - Mar 2017)
 
-SBI Life Insurance Comp (2011 - 2015)
+SBI Life Insurance Comp (July 2011 - Aug 2015)
 
 ### Projects
 
