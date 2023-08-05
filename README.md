@@ -14,7 +14,7 @@ SBI Life Insurance Comp (July 2011 - Aug 2015)
 
 1. Database & System Migration
 
-  our organization has successfully migrated the system from Elixir to Life Asia, a cutting-edge insurance policy administration platform. This migration was undertaken to enhance your overall experience, improve system performance, and provide you with a more user-friendly interface.
+  our organization has successfully migrated the system from Elixir to Life Asia, a cutting-edge insurance policy administration platform. This migration was undertaken to enhance your overall experience, improve system performance, and provide you with a more user-friendly interface
 
   We are confident that this upgrade will result in increased efficiency, smoother operations, and improved interactions with the system. Should you encounter any challenges or have any questions, our support team is here to assist you. Thank you for your continued trust and partnership as we move forward with this enhanced platform.
   
